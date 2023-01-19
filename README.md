@@ -22,7 +22,7 @@ The code is implemented using Python ([version 2.7](https://www.python.org/downl
 
 ### 💽Command to run the application:
 ```
-python detect_drowsiness.py \
+python drowsiness_detection.py \
    --shape-predictor shape_predictor_68_face_landmarks.dat \
    --alarm alarm.wav
 ```
